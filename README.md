@@ -93,13 +93,13 @@ plt.axis('off')
 ## Output:
 
 
-<img width="765" height="590" alt="image" src="https://github.com/user-attachments/assets/1889632d-42a2-485f-acec-1a89faa07c27" />
+<img width="485" height="504" alt="Screenshot 2026-05-24 220924" src="https://github.com/user-attachments/assets/80308495-297f-4829-b357-34d74fe380b6" />
 
 
-<img width="769" height="586" alt="image" src="https://github.com/user-attachments/assets/8c6fad00-ff77-4df7-93c7-5cb0ecd3583c" />
+<img width="496" height="514" alt="Screenshot 2026-05-24 220931" src="https://github.com/user-attachments/assets/70e75447-830d-4a7b-a8eb-ee032f23cef5" />
 
 
-<img width="756" height="583" alt="image" src="https://github.com/user-attachments/assets/c0149334-57ef-4aa5-9519-c51924e52781" />
+<img width="489" height="509" alt="Screenshot 2026-05-24 220938" src="https://github.com/user-attachments/assets/4a6a3813-079a-43e5-a3a4-eb5087de01f8" />
 
 
 ## Result
